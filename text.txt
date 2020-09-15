@@ -1,5 +1,7 @@
 Skriver lite text i början av vår fil
 
-fortsätter skriva på min text med rad 2
+fortsätter skriva på min text med rad två
 
 rad tre nu börjar det bli spännande
+
+rad fyra är verkligen korrekt stavad
